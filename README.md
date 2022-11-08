@@ -5,7 +5,6 @@
 ### :sassy_man: About me
 - ⚡ I am a Full-stack web developer
 - 💻 I mostly program in PHP. Sometimes Node.js 
-- 🔭 I’m currently working in Back-end developer position at Mihan Web Host
 - 🌱 I'm currently improving myself in soft skills and teamwork
 - 🤔 I'm always coming up with new ideas
 - 👯 I welcome new teammates who are smart and full of ideas
